@@ -10,7 +10,7 @@
 
 |  |  |
 |:--:|:--:|
-| <img width="350" src="notebooks/images/domain.png" title="Sketch"> | <img width="550" src="notebooks/images/solution.png" title="Criticality"> |
+| <img width="350" src="notebooks/images/domain.png" title="Sketch"> | <img width="550" src="notebooks/images/critical.png" title="Criticality"> |
 
 This site will be in construction during this semester.
 
