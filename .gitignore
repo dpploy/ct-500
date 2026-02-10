@@ -2,7 +2,7 @@
 pyfem1d
 *solution*
 *midterm*
-*.png
+#*.png
 *final*
 engy_5050
 engy_5310
